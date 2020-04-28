@@ -1,0 +1,214 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+
+
+}
+h1{
+	margin-top: 50px;
+	color: #FFF997;
+	margin-bottom: 0;
+	font-family: 'Eagle Lake', cursive;
+	font-size: 90px;
+	text-decoration-color: #66BFBF;
+	line-height: 2;
+
+
+}
+span{
+	text-decoration: underline;
+}
+a{
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+}
+a:hover{
+	color: #EAF6F6;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	color: #0d47a1;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: ##37474f;
+}
+h6{
+	font-family: 'Berkshire Swash', cursive;
+	font-family: 'Rochester', cursive;
+	font-family: 'Courgette', cursive;
+	font-family: 'Great Vibes', cursive;
+	font-family: 'Cookie', cursive;
+	font-family: 'Tangerine', cursive;
+}
+.top-container{
+	background: #FC6A0C;
+	position: relative;
+	padding: 100px 0;
+}
+.middle-container{
+	background-color: #ffeb3b;
+	
+}
+.bottom-container{
+	background-color: #607d8b;
+	padding: 50px 0 20px;
+	
+	
+}
+.bottom-cloud{
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+.top-cloud{
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.subtitle{
+	font-weight: normal;
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+
+}
+.computer-img{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.chillies-img{
+		width: 25%;
+		float: right;
+		margin-left: 30px;
+}
+.profile{
+	padding: 40px;
+}
+hr{
+	color: #455a64;
+	border: dotted 6px;
+	width: 4%;
+	border-bottom: none;
+	margin: 100px auto;
+
+}
+.intro{
+	color: #fafafa;
+	background-color: #212121;
+	width: 30%;
+	margin: auto;
+	line-height: 2;
+	padding: 10px;
+
+}
+.computerdescr{
+	color: #c8e6c9;
+	background-color: #00c853;
+	padding: 20px;
+}
+.chillies-descr{
+	background-color: #795548;
+	color: #efebe9;
+	padding: 20px;
+}
+.MySkills{
+	color: #d32f2f;
+}
+.copyRights{
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	margin: 20px 0;
+}
+.getInTouch{
+	background-color: #1a237e;
+	color: #ffcdd2;
+	width: 30%;
+	margin: auto;
+	line-height: 2;
+
+}
+.BUTTON_TZA {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+   box-shadow: 1px 1px 20px 0px #000000;
+   -webkit-box-shadow: 1px 1px 20px 0px #000000;
+   -moz-box-shadow: 1px 1px 20px 0px #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_TZA:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+
+
+.myButton {
+	background-color:#ff8a65;
+	border-radius:10px;
+	margin: 60px auto;
+	border:1px solid #f44336;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	padding:10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#76ff03;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.food, .purple{
+	color: #9818d6;
+}
+.wrapright, .chillies-h3{
+	color: #1a237e;
+}
+
+
+
+
+
